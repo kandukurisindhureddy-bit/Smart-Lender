@@ -78,3 +78,6 @@ http://127.0.0.1:5000
 ## Author
 
 Sindhu
+## Live Demo
+
+👉 [Start Prediction](https://kandukurisindhu.pythonanywhere.com)
